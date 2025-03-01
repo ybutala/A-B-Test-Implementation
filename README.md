@@ -1,7 +1,3 @@
 ## A/B-Test-Implementation
 
-I have implemented and tested an A/B test on a sample data set of button impressions and button clicks. We tested the significance of altering the visual appreance of a button for a website. 
-
-Null hypothesis: The Click-through-rate for the new button does not significantly improve above the current click-through-rate
-
-Our minimum practical necessicity was to increase the CTR by at least 10%, hence the delta = 0.1
+As part of the Pro Bono Consulting Club, I implemented and analyzed an A/B test to evaluate the impact of altering the visual appearance of a "SHOP" button on a website. The test was conducted over two weeks, during which we collected data from approximately 20,000 impressions. The null hypothesis for the test stated that the click-through rate (CTR) for the new button would not significantly improve compared to the current CTR. Our goal was to achieve a practical improvement of at least 10%, setting the minimum detectable effect (delta) to 0.1.
